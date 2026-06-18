@@ -1,2 +1,2 @@
-# CAS-textile-patterns-practice
+# textile-patterns-practice
 so basically
