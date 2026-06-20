@@ -21,6 +21,6 @@ for row in range(4):
         else:
             img.putpixel((col, row), white)
 
-resized_img = img.resize((400, 400), Image.Resampling.NEAREST)
+resized_img = img.resize((1200, 400), Image.Resampling.NEAREST)
 resized_img.save("firstpattern.png")
 print("Visual pattern photo created successfully!")
